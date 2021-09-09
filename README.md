@@ -3,8 +3,8 @@
 
 # Supported tags and respective Dockerfile links
 
- - 2.0.1-rc-1
- - 2.0.1-rc-2
+ - [2.0.1-rc-1](https://github.com/dalmatialab/accumulo/blob/1cf52471e294c46011f2701da7bfd115d72e1c3f/Dockerfile)
+ - [2.0.1-rc-2](https://github.com/dalmatialab/accumulo/blob/c4aa20196676256df8ae60a4b515c4caba6d0fe7/Dockerfile)
 
 # What is Accumulo ? 
 

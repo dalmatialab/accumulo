@@ -4,6 +4,7 @@
 # Supported tags and respective Dockerfile links
 
  - 2.0.1-rc-1
+ - 2.0.1-rc-2
 
 # What is Accumulo ? 
 
@@ -78,6 +79,10 @@ This is *required* variable. It specifies Hadoop namenode endpoint where Accumul
 **ACCUMULO_PASSWORD**
 
 This is *required* variable. It specifies Accumulo password.
+
+**TZ**
+
+This is *optional* variable. It specifes timezone. Default value is `Europe/Zagreb`.
 
 ## Ports
 
